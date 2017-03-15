@@ -1,3 +1,5 @@
+//This is an eg
+
 function removeDupString(arr){
 
   var out=[],seen={};
